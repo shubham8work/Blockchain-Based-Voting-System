@@ -1,0 +1,13 @@
+npm start
+
+-- show databases;
+use  bbvs ;-- 
+SHOW TABLES;--
+select * from user;
+
+admin login detail:
+email: john@gmail.com
+password: john@gmail.com
+
+user detail
+liza@gmail.com
